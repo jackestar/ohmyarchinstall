@@ -1,0 +1,9 @@
+firefox-developer-edition
+firefox-developer-edition-i18n-es-mx
+inkscape
+gimp
+wine
+wine-gecko
+wine-mono
+winetricks
+

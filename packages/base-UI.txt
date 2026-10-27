@@ -1,0 +1,17 @@
+gtk2
+gtk3
+gtk4
+hyprland
+grim
+wf-recorder
+lxappearance
+nemo
+nemo-fileroller
+nemo-share
+sddm
+vlc
+vlc-plugins-all
+kitty
+pipewire
+pipewire-alsa
+pipewire-pulse
